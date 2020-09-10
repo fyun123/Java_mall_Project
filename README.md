@@ -1,2 +1,2 @@
 # Java_Project
-Java mall Project
+购物商城系统
